@@ -5,7 +5,7 @@ import pandas as pd
 app = Flask(__name__)
 
 # Loading pickle files
-with open('grid_search_rf.pkl', 'rb') as file:
+with open('random_forest_model.pkl', 'rb') as file:
     model = pickle.load(file)
 
 with open('ordinal_encoder.pkl', 'rb') as file:
