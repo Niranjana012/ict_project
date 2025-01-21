@@ -1,3 +1,5 @@
+# Abstract
+
 # Employee Resignation Prediction   
 
 This project focuses on developing a machine learning model to predict employee resignations based on historical workforce data. The dataset includes 20 features that capture demographic, professional, and performance-related aspects of employees, such as age, department, job title, monthly salary, education level, performance score, and satisfaction rating. The target variable is a boolean indicator, Resigned, denoting whether an employee has resigned or not.   
